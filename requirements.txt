@@ -8,7 +8,6 @@ scikit-learn==1.1.3
 scipy==1.9.3
 shap==0.41.0
 explainerdashboard==0.4.0
-streamlit==0.61.0
 altair==4.2.0
 ansi2html==1.8.0
 asttokens==2.0.8
@@ -94,10 +93,7 @@ pyzmq==24.0.1
 requests==2.28.1
 retrying==1.3.3
 rich==12.6.0
-scikit-learn==1.1.2
-scipy==1.9.2
 semver==2.13.0
-shap==0.41.0
 six==1.16.0
 slicer==0.0.7
 smmap==5.0.0
