@@ -38,7 +38,6 @@ Flask==2.2.2
 Flask-Compress==1.13
 Flask-SeaSurf==1.1.1
 flask-simplelogin==0.1.1
-Flask-WTF==1.0.1
 fonttools==4.38.0
 graphviz==0.20.1
 h5py==3.7.0
