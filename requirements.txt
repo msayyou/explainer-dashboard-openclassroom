@@ -29,7 +29,6 @@ commonmark==0.9.1
 configobj==5.0.6
 contourpy==1.0.5
 cycler==0.11.0
-dash==2.6.2
 dash-auth==1.4.1
 dash-bootstrap-components==1.2.1
 dash-core-components==2.0.0
@@ -40,8 +39,6 @@ decorator==5.1.1
 dtreeviz==1.3.7
 entrypoints==0.4
 executing==1.1.1
-explainerdashboard==0.4.0
-Flask==2.2.2
 Flask-Compress==1.13
 Flask-SeaSurf==1.1.1
 flask-simplelogin==0.1.1
@@ -58,7 +55,6 @@ ipython==8.5.0
 itsdangerous==2.1.2
 jedi==0.18.1
 Jinja2==3.1.2
-joblib==1.2.0
 jsonschema==4.16.0
 jupyter-core==4.11.1
 jupyter-dash==0.4.2
