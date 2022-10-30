@@ -1,5 +1,5 @@
 dashboard:
-  explainerfile: explainer.joblib
+  explainerfile: explainer_1.joblib
   params:
     title: Bank Dashboard
     name: null
