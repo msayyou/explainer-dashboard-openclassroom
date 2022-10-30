@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 
 explainer = ClassifierExplainer.from_file('explainer_1.joblib')
-db = ExplainerDashboard(explainer,url_base_pathname="/dashboard/")
+db = ExplainerDashboard(explainer,server=app, url_base_pathname="/dashboard/")
 
 @app.route('/dashboard')
 def return_dashboard():
